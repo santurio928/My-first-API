@@ -1,8 +1,4 @@
 
-#Ownership
-
-The ownership of the code is not mine but @RodriAF.I find this project really interesting.
-So I think is an essential first step for creating API´s on python
 
 # Creating An API
 
@@ -11,3 +7,9 @@ This is a sketch for creating a REST-API. It's only a trial for personal purpose
 ## Datasets
 
 The dataset of diabetes used by _apli.py_ is from this [kaggle link](https://www.kaggle.com/datasets/rahulsah06/machine-learning-for-diabetes-with-python?resource=download)
+
+## Ownership
+
+The ownership of the code is not mine but @RodriAF.I find this project really interesting.
+So I think is an essential first step for creating API´s on python
+
